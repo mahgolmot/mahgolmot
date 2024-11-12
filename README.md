@@ -1,3 +1,7 @@
+<img src="https://github.com/mahgolmot/mahgolmot/img.PNG"/>
+
+
+
 <h3>My Expertise</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,sass,ps,vscode"/>
 <hr height="1px"/>
