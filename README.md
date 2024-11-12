@@ -1,5 +1,5 @@
 <img src="./img.PNG"/>
-
+<hr/>
 
 
 <h3>My Expertise</h3>
