@@ -1,4 +1,4 @@
-<img src="https://github.com/mahgolmot/mahgolmot/img.PNG"/>
+<img src="./img.PNG"/>
 
 
 
