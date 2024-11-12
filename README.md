@@ -2,7 +2,7 @@
 <img height="400px" width="600px" src="./img1.PNG"/>
 <hr/>
 </div>
-
+<p>This is Mahgol Motaqian! A Junior Frontend Programmer</p>
 <h3>My Expertise</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,sass,ps,vscode"/>
 <hr height="1px"/>
