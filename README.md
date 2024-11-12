@@ -1,6 +1,7 @@
+<div align="center>
 <img src="./img1.PNG"/>
 <hr/>
-
+</div>
 
 <h3>My Expertise</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,sass,ps,vscode"/>
